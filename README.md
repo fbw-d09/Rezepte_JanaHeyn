@@ -41,7 +41,7 @@ Im Originalrezept wird *Blutwurst* verwendet, wie unten auch beschrieben ist. Da
 ##### Nährwerte pro Portion
 
 
-Nährstoff     | pro Portion | Tagesanteil in %
+Nährstoff     | Menge       | Tagesanteil in %
 :-------------|:------------|:----------------
 Energie       | 1142 kcal   | 52%
 Eiweiß        | 27,5 g      | 50%
@@ -87,7 +87,7 @@ Obazda ist eine pikante bayrichse Käsezubereitung, die zur Brotzeit gereicht wi
 ****
 ##### Nährwerte pro Portion
 
-Nährstoff     | pro Portion | Tagesanteil in %
+Nährstoff     | Menge       | Tagesanteil in %
 :-------------|:------------|:----------------
 Energie       | 439 kcal    | 20%
 Eiweiß        | 16,2 g      | 29%
